@@ -1,0 +1,16 @@
+.env
+.env.*
+*.env
+vault*
+*token*
+*secret*
+*credential*
+*.pem
+*.key
+logs/
+*.log
+handoff/
+TASK_QUEUE.md
+__pycache__/
+*.pyc
+.DS_Store

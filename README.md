@@ -1,3 +1,5 @@
+![BRAINFRAME](brainframe-banner-magenta.png)
+
 <p align="center">
   <img src="assets/banner.svg" alt="BRAINFRAME FULL wrapper" width="100%">
 </p>
